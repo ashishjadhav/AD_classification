@@ -25,7 +25,7 @@ A Decision Tree is employed for classification by recursively partitioning the f
 Random Forest is an ensemble of Decision Trees, providing a robust and accurate classification by combining the predictions of multiple trees.
 
 ## Limitations
-Audio data, especially when represented by features such as eGeMAPSv02, can be high-dimensional. Traditional machine learning algorithms may struggle with the curse of dimensionality, leading overfitting. Next version of the project will implement neural architecturs to solve this issue.
+Audio data, especially when represented by features such as eGeMAPSv02, can be high-dimensional. Traditional machine learning algorithms struggle and lead to overfitting. Next version of the project will implement neural architecturs to solve this issue.
 
 ## Technology Stack
 
